@@ -1,0 +1,20 @@
+[
+    {
+        "name": "BMW M5",
+        "type": "Car",
+        "price": "500000",
+        "image": "https:\/\/images.cdn.autocar.co.uk\/sites\/autocar.co.uk\/files\/styles\/gallery_slide\/public\/bmw-m5-review-2025-002-front-tracking.jpg?itok=AEL4DtXd"
+    },
+    {
+        "name": "Audi R8",
+        "type": "Car",
+        "price": "400000",
+        "image": "https:\/\/www.thedrive.com\/wp-content\/uploads\/images-by-url-td\/content\/archive-images\/critics-notebook-audi-r8-bb-hero.jpg?quality=85"
+    },
+    {
+        "name": "Mercedes G Wagon",
+        "type": "Car",
+        "price": "200000",
+        "image": "https:\/\/car-images.bauersecure.com\/wp-images\/197111\/1752x1168\/50-mercedes-g-class-2024-front-driving.jpg?mode=max&quality=90&scale=down"
+    }
+]
